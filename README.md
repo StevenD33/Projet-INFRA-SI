@@ -1,12 +1,12 @@
 ﻿# Projet INFRA
 
 
-* [I. Introduction ](##i-Introduction )
+* [I. Introduction ](#i-Introduction)
 * [II. SOC](#ii-SOC)
-* [III. IDS et NIDS](#iii-IDS)
-* [IV. Installation Pfsense](#iv-pfsense)
-* [V. Installation Suricata](#v-Suricata)
-* [VI. Ajout de règles Suricata ](#vi-ajout-regle-suricata)
+* [III. IDS et NIDS](#iii-IDS-et-NIDS)
+* [IV. Installation Pfsense](#iv-Installation-Pfsense)
+* [V. Installation Suricata](#v-Installation-Suricata)
+* [VI. Ajout de règles Suricata](#vi-Ajout-de-règles-Suricata)
 
 # I. Introduction
 
