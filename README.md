@@ -7,7 +7,7 @@
 * [IV. Suricata](#iv-Suricata)
 * [V. Installation Pfsense](#v-Installation-Pfsense)
 * [VI. Installation Suricata](#vi-Installation-Suricata)
-* [VII. Ajout de règles Suricata](#vii-Ajout-de-règles-Suricata)
+* [VII. Ajout de Regles sur Suricata](#vii-Ajout-de-Regles-sur-Suricata)
 
 # I. Introduction
 
