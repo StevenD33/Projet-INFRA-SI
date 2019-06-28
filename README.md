@@ -4,9 +4,10 @@
 * [I. Introduction ](#i-Introduction)
 * [II. SOC](#ii-SOC)
 * [III. IDS et NIDS](#iii-IDS-et-NIDS)
-* [IV. Installation Pfsense](#iv-Installation-Pfsense)
-* [V. Installation Suricata](#v-Installation-Suricata)
-* [VI. Ajout de règles Suricata](#vi-Ajout-de-règles-Suricata)
+* [IV. Suricata](#iv-Suricata)
+* [V. Installation Pfsense](#v-Installation-Pfsense)
+* [VI. Installation Suricata](#vi-Installation-Suricata)
+* [VII. Ajout de règles Suricata](#vii-Ajout-de-règles-Suricata)
 
 # I. Introduction
 
