@@ -223,3 +223,9 @@ Ensuite on Ajoute les règles que l'on souhaite par exemple ici j'ai ajouter ces
 	
 	alert tcp $EXTERNAL_NET any -> $HOME_NET any (msg:"ET SCAN NMAP -f -sX"; fragbits:!M; dsize:0; flags:FPU,12; ack:0; window:2048; threshold: type both, track by_dst, count 1, seconds 60; reference:url,doc.emergingthreats.net/2000546; classtype:attempted-recon; sid:2000546; rev:7; metadata:created_at 2010_07_30, updated_at 2010_07_30;)
 
+On sauvegarde et on relance l'interface et c'est ok, 
+
+
+Ce projet était super cool malgrés le peu de temps que j'ai eu pour le faire et je vais vraiment essayer d'aller beaucoup plus loin l'année prochaine la dessus car le coté Blue team en sécu est super intéréssant. 
+
+Merci D'avoir lu ce rendu un peu fait à l'arrache 
