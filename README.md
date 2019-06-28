@@ -189,7 +189,7 @@ Ensuite dans le dashboard apparait le module suricata on clique dessus et on peu
 [Link](https://www.youtube.com/watch?v=KRlbkG9Bh6I)
 
 
-# VI. Ajout de Regles sur Suricata
+# VII. Ajout de Regles sur Suricata
 
 Le plus simple pour ajouter une regle c'est de le faire depuis le webconfigurateur pour cela il faut 
 Aller dans Service > Suricata 
